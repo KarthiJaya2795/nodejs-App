@@ -1,0 +1,3 @@
+mkdir hello-world-nodejs
+cd hello-world-nodejs
+npm init -y
